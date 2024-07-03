@@ -1,0 +1,13 @@
+name = "LBThieves Season 2"
+author = "Dandandooo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "993ddc8307f66654e7ff22fa0f42321f8af16f91e1ef052441f19bfaa4030e45"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"
