@@ -1,0 +1,13 @@
+name = "Roundista [LabPBR]"
+filename = "Roundista 128x R27.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/R4g9Nf07/versions/TSU5KIEl/Roundista%20128x%20R27.zip"
+hash-format = "sha1"
+hash = "6fa0fde8bd5119928dba24ede2e000457292a54f"
+
+[update]
+[update.modrinth]
+mod-id = "R4g9Nf07"
+version = "TSU5KIEl"
