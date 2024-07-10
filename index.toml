@@ -386,6 +386,11 @@ hash = "ae83dfcccd580352eee3cf509ace37f67f1bf0d2862d2d9c9d64d8909892d2d4"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "948e8a5d65ede4a8612a2f476d7b3b0f2fe00436ab3b8dd73829d4bdcf0cdf22"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "72cc5d492b49c72c87da9629cd51e7240abae422784fef925872a0d4187c4932"
 metafile = true
@@ -441,6 +446,11 @@ hash = "154ce26b6fdfb21fd15abc1c121e045fcff2231efd7fc9dae63a08bffb2b7aa2"
 metafile = true
 
 [[files]]
+file = "mods/hybrid-aquatic.pw.toml"
+hash = "6d8ee6025ddd0a8d0ccfd5af979a92de158c149f36106348f5050a2980b4fee2"
+metafile = true
+
+[[files]]
 file = "mods/icarus.pw.toml"
 hash = "4e72b1af60144e4c5ddeace18f881e18848f9e0ca528adbad14024c6272c6cc2"
 metafile = true
@@ -458,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "6afa8009ec93e4deec4e36fc341d768f62506abe6fbf10307c679fb87d16778e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "c1b5c4e32953b35fed5caf375451543fa3315385b956cf9cb49dcb032e972fb6"
 metafile = true
 
 [[files]]
@@ -653,6 +668,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "a878f1e84810c2fdfe58945b07ae680e3e483d89f33e378aa5a950d6b99f38a3"
+metafile = true
+
+[[files]]
+file = "mods/profundis.pw.toml"
+hash = "94dff715dd8bec21c61fb8f012394ca92bdc609200f195402be8a57e8539748a"
 metafile = true
 
 [[files]]
