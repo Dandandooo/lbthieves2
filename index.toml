@@ -596,6 +596,11 @@ hash = "5fe587a7451d525a055e7f5eb31d17fad16cd2aa12bed335ae1f3a82b65d3e7c"
 metafile = true
 
 [[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "b8e45a11966f27dca57d03d3d3ce7b4e8b669ea7a3160874d8e6e0234b3d6b28"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "e7712ecf20e3c2e52da19f968762b671726222cbc4c48206231b56b6c6cd79a7"
 metafile = true
