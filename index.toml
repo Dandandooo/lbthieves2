@@ -86,11 +86,6 @@ hash = "9c44cf229440021ac7c42cd265fcec944fb002e2264c61688dfc21546bdaed5d"
 metafile = true
 
 [[files]]
-file = "mods/better-totem-of-undying.pw.toml"
-hash = "25fa3521d1105cf549071e7659474ab1430f9737287a707e8e0b66328255c5d5"
-metafile = true
-
-[[files]]
 file = "mods/betterend.pw.toml"
 hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
 metafile = true
