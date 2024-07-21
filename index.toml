@@ -741,11 +741,6 @@ hash = "5bcf5b6742a1689ed67578adfe02702fbe710b9d0ea79079bedaebc086d539d9"
 metafile = true
 
 [[files]]
-file = "mods/recipe-book-delight.pw.toml"
-hash = "3318ae40fabe18ea442d2336d123b9129c3be75855f81c11cdde1933d93efd1f"
-metafile = true
-
-[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "2ea830cbc4745e732f3161256932cd5c4b6e8e2202d9370b1649718a522435e2"
 metafile = true
