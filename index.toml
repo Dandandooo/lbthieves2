@@ -231,39 +231,32 @@ hash = "4548d136288d54fe93c2b688e7d45b108e49767b864d6fca29fafc62bde09078"
 metafile = true
 
 [[files]]
-file = "mods/ct-overhaul-village.pw.toml"
+file = "mods/ct-overhaul-village.pw.toml.bak"
 hash = "5a2864946f972b75f08c7c466849d326696d234938ee6391538ed9dfdcc2a7d0"
-metafile = true
 
 [[files]]
-file = "mods/ctov-chefs-delight-compat.pw.toml"
+file = "mods/ctov-chefs-delight-compat.pw.toml.bak"
 hash = "82b3bb88bd350fe7537af8dd3900f37d41301d640dc2e6860dd6d36cf86dcd9b"
-metafile = true
 
 [[files]]
-file = "mods/ctov-create-structures.pw.toml"
+file = "mods/ctov-create-structures.pw.toml.bak"
 hash = "ced88c2b170469d097b3fad5204b5fe29445f99d639d91afbd07f1d0e424b424"
-metafile = true
 
 [[files]]
-file = "mods/ctov-farmers-delight-compat.pw.toml"
+file = "mods/ctov-farmers-delight-compat.pw.toml.bak"
 hash = "c163559322c64b37c02074f0774da6de8a5a2c6dd6f5cd7b51775596769268e1"
-metafile = true
 
 [[files]]
-file = "mods/ctov-gazebo-compat.pw.toml"
+file = "mods/ctov-gazebo-compat.pw.toml.bak"
 hash = "2bc66889f6f6cc7b823b1f26db193f5ba3eb9e0568d10c30ba58d8049ea17dae"
-metafile = true
 
 [[files]]
-file = "mods/ctov-paladins-n-priests-compat.pw.toml"
+file = "mods/ctov-paladins-n-priests-compat.pw.toml.bak"
 hash = "11be057519a291fa5d2dfc58b6e7c9ed2b406e6026dca028a33a867c1d54c34d"
-metafile = true
 
 [[files]]
-file = "mods/ctov-wizards-compat.pw.toml"
+file = "mods/ctov-wizards-compat.pw.toml.bak"
 hash = "790d1068f59d16f93017a7839b8cb81b5a8569d4ac46e547f7f7c17fb80bce41"
-metafile = true
 
 [[files]]
 file = "mods/deathlog.pw.toml"
