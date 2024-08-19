@@ -1,0 +1,13 @@
+name = "Mythic Charms"
+filename = "mythic_charms-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x9tvGmvR/versions/H5zHMPMc/mythic_charms-1.1.2.jar"
+hash-format = "sha1"
+hash = "c146625199216df542476549bf757110fef5c3cf"
+
+[update]
+[update.modrinth]
+mod-id = "x9tvGmvR"
+version = "H5zHMPMc"

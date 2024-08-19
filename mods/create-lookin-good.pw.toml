@@ -1,0 +1,13 @@
+name = "Create: Lookin' Good"
+filename = "create-lookin-good-0.1.2+1.20.1-15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Y6rerGw/versions/Vxwq5dtI/create-lookin-good-0.1.2%2B1.20.1-15.jar"
+hash-format = "sha1"
+hash = "3c76a33cacf7c9017ddb9b69f4f7698a0bee384f"
+
+[update]
+[update.modrinth]
+mod-id = "9Y6rerGw"
+version = "Vxwq5dtI"

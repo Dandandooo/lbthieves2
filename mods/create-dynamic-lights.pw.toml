@@ -1,0 +1,13 @@
+name = "Create: Dynamic Lights"
+filename = "create-dyn-light-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/evMQRxqV/versions/vJtweuJE/create-dyn-light-fabric-1.0.0.jar"
+hash-format = "sha1"
+hash = "8d86ff71900169220ba7fab07119d10d1fc60a0f"
+
+[update]
+[update.modrinth]
+mod-id = "evMQRxqV"
+version = "vJtweuJE"
