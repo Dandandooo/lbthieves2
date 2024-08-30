@@ -36,6 +36,11 @@ hash = "fe48ef33fd4a8d8580fd938b7a6a7c1175aad76e0df0ddf4c12e7acb2f0ea65a"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "64d78922bc5e9e825411bada42be1ee6816da1f6e419d6034089b3d3b85da2fb"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
 metafile = true
@@ -48,11 +53,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
-metafile = true
-
-[[files]]
-file = "mods/armorful.pw.toml"
-hash = "ed61466aa4c8fe38123a6b889cc3277afd60b74bbf12d30d17f92b1bb6834663"
 metafile = true
 
 [[files]]
@@ -356,9 +356,8 @@ hash = "ceb64d23d3dde8e24a425b7b5b831cf536cee39bf607ca2e990143092f161c29"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
+file = "mods/distanthorizons.pw.toml.bak"
 hash = "efd1092527558e11c3628e4338859393c4ae309eb05f852cef16d73debbeeec3"
-metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
@@ -711,11 +710,6 @@ hash = "222ec4a75e6f0aad1680edc993b2b473d4289d3813f3263730f47f88dd14d615"
 metafile = true
 
 [[files]]
-file = "mods/mru.pw.toml"
-hash = "f6d610af64557560917daeeb899d51ae33132b81eb11106f1b8fa18c6ba38e51"
-metafile = true
-
-[[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "b8e45a11966f27dca57d03d3d3ce7b4e8b669ea7a3160874d8e6e0234b3d6b28"
 metafile = true
@@ -768,6 +762,11 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "5167fe4155561b257e45ca43382ca6f66858d5bf5eefead2ed834854772ef8a9"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "16786b5f5f7ebc52a3edcaab8613f4030c06a7693fe64d3bc7549074548acceb"
 metafile = true
 
 [[files]]
@@ -921,14 +920,8 @@ hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
+file = "mods/sound-physics-remastered.pw.toml.bak"
 hash = "62fa9a283dd936e8c6863cfb5df10a9571746ddd605854d8c9ed05bca055c3c1"
-metafile = true
-
-[[files]]
-file = "mods/sound.pw.toml"
-hash = "8234594697690ff73886232f1ecce8721abe4b82e063ae6f5e5422b379edabe6"
-metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
