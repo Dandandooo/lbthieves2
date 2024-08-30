@@ -41,6 +41,11 @@ hash = "64d78922bc5e9e825411bada42be1ee6816da1f6e419d6034089b3d3b85da2fb"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "8f16cfd00838e0fea189de57429e08a632944d48a62140d52af15c54b520c9b5"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
 metafile = true
@@ -163,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "9c165d9011d59231aedd5ae90da51ffddc8a3e9ec77779a0050d400b097633f4"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
 metafile = true
 
 [[files]]
